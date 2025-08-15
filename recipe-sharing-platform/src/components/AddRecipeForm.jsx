@@ -117,7 +117,8 @@ const AddRecipeForm = () => {
             )}
           </div>
           <button
-            onClick={handleSubmit}
+            ons
+            onSubmit={handleSubmit}
             className="w-full bg-indigo-600 text-white font-semibold py-3 rounded-md hover:bg-indigo-700 transition-colors"
           >
             Submit Recipe
