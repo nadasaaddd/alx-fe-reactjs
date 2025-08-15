@@ -43,6 +43,7 @@ const AddRecipeForm = () => {
       setTitle("");
       setIngredients("");
       setInstructions("");
+      preventDefault("");
     }
   };
 
